@@ -1,0 +1,28 @@
+<?xml version="1.1" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abhinnkrishn.honey1.mysnakes">
+
+    <application
+
+
+        android:debuggable="false"
+        android:icon="@drawable/icon"
+        android:label="Roll A Dice"
+        android:roundIcon="@drawable/icon"
+
+
+
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".MainActivity"
+           android:screenOrientation="portrait"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

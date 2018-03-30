@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\c9f321057845424f92d89982865cf42eaa80882d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_27a479aaaf9a159ef038e79bcc5095e99e210e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\df87a45a4d01a3cbafe9ded461d5760e11676b7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_10ae4477e8559438d0223cbad2661089aab67770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\62cef3773da88004ca6e78ba69438801e2a9639f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_da357b7e91556f7a68908d80a82d3f152e88dd9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\0e78cecd416fce813e3b997b6397c3ccaf046dd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_d8b0d9d4cfd30160308067b662341a1fc54cbc2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\79f3a200709cdcace6f52782a099efc1a9619ae2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_3878c8d6460ab1ce30a6626b3e2f28f7a50dfe65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio_Setup\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_b74057e7bd00997637ffe8f5d191825de235a465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\ccd4e592a1c18f29e787c640f0e80cdfd8149175\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_121480c4078f230f5924c3a0d666b818ae871632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\7f5604b807a67a24b6fcdd5e31c7e9d39dc06e97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_8db5a3ef6f14055e2eeb55e96639b3885bbf1b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio_Setup\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_24a7cdd34429ad9d959b7da029662adfe4424abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\f002fa52afd60a74ac6db165199ccfdc8abc2d29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_3b9acd904005ed4fdbca9c7048c18fdf636b99bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\bd17c6108efb4128c52ab73fa9e4a7d2c60d0ba1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_9e4dcb9ca9a986368c30533a73657982bfe2d6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\honey1\.android\build-cache\9a134df9b075f9ba1741959d65ae2560bb7ea5d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\Dev\Android\my_apps\MySnakes\app\build\intermediates\pre-dexed\debug\classes_4ff9a88f2b05fc796a5862af961c5e438ad3b9bd.jar" />
+    </item>
+
+</items>
